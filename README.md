@@ -1,2 +1,2 @@
 # LandslideRiskTool
-Geoprocessing tool created as part of a final project for the university course GISci Programming. 
+ArcPy geoprocessing tool created as part of a final project for the university course GISci Programming. Due to time constraints and feasibility considerations, this script is a work in progress with known issues and limitations. Further improvements were researched and discussed in an accompanying paper. Anyone may use this script as a framework for their own project if they so wish. 
